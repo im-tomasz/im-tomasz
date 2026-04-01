@@ -1,16 +1,22 @@
-## Hi there 👋
+## 👋 Salut !
+## ⁉️​ Mais qui est-il  ?
+​🤝​ Moi, c'est Thomas, 
 
-<!--
-**im-tomasz/im-tomasz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+➡️​ en reconversion dans le développement web et mobile, je viens d’un parcours militaire et je construis mes compétences !
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📙​ Ce que je fais en ce moment
+
+- formation Développeur Web et Web Mobile à l'AFPA📗​​
+- projets perso (front, back, base de données)📊​​
+
+## 🛠️ Stack actuelle
+
+- **Front** : HTML, CSS, JavaScript, TypeScript, React  
+- **Back** : PHP, Symfony  
+- **Base de données** : MySQL, SQL, PostgreSQL
+- **Environnement** : Docker
+- **Outils** : Git, GitHub, VS Code, DBeaver
+
+---
