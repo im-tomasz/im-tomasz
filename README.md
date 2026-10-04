@@ -27,9 +27,7 @@
 
 ## ![eye](https://www.readmecodegen.com/api/social-icon?name=eye&size=20&color=%23ffffff)  - mais qui est-il ?
 
-développeur web et web mobile en formation, je développe projets après projets.
-
-
-ici pour construire des applications solides, en explorant à fond le **front** et le **back** !
+je développe projets après projets.
+ici pour construire des applications solides.
 
 ---
